@@ -10,7 +10,7 @@ npm install react-status-stories
 
 ## Usage
 
-```jsx
+```tsx
 import { ReactStatus } from "react-status-stories";
 import "react-status-stories/dist/Stories.css";
 
@@ -21,6 +21,7 @@ const stories = [
 ];
 
 <ReactStatus items={stories} timeout={2500} customClass="my-stories" />
+```
 
 ## Need Help?
 
