@@ -22,9 +22,3 @@ const stories = [
 
 <ReactStatus items={stories} timeout={2500} customClass="my-stories" />
 
-
-#Keywords:
-status, story, whatsapp-status, story-status, status-ring,
-story-ring, status-ui, react-story, react-status, instagram-story, snapchat-story,
-status-component, react-status-circle, story-preview, circular-status, react-status-ring
-
