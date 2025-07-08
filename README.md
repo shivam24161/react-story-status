@@ -22,3 +22,11 @@ const stories = [
 
 <ReactStatus items={stories} timeout={2500} customClass="my-stories" />
 
+## Need Help?
+
+If you face any issues or have questions, you're welcome to [raise an issue](https://github.com/shivam24161/react-story-status/issues) on GitHub.
+
+
+## License
+
+MIT 
