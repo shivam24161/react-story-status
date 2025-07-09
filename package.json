@@ -37,7 +37,7 @@
   ],
   "scripts": {
     "dev": "vite",
-    "build": "tsc && cp src/Stories/Stories.css dist/Stories.css",
+    "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
