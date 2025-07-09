@@ -2,6 +2,8 @@
 
 A lightweight and customizable React component to display WhatsApp-style status stories with circular previews. Perfect for building Instagram, WhatsApp, or Snapchat-like story UIs in your React apps.
 
+👉 **[Live Demo](https://react-status.netlify.app/)**
+
 ## Installation
 
 ```
